@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Carlos Eduardo
 
-- 🌱 Estudando Javascript e Typescript
+- 🌱 Estudando e me aprofundando em JAVA
 - ⚡ Cursando Análise e Desenvolvimento de Sistemas
 
 <div align="center">
