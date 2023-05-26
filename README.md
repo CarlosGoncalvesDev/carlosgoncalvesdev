@@ -1,3 +1,16 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+Developer Front-End Jr    ||   Developer Fullstack C#
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+ 
+ ```JavaScript 
+const Saints = {
+  languages: "Portuguese, Spanish and a little English",
+  last_job: "FullStack C#, EF, SQL Server, React, Javascript",
+};
+
+```
 
 <div display="flex" justify-content="space-around" align="center">
     <div>
