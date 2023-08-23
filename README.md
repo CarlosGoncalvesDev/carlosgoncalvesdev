@@ -7,7 +7,7 @@ Developer Front-End Jr    or   Developer Fullstack C#
  ```JavaScript 
 const Saints = {
   languages: "Portuguese, Spanish and a little English",
-  last_job: "FullStack C#, EF, SQL Server, React, Js, Ts",
+  last_job: "FullStack Web Developer C#, Java, React, Angular",
 };
 
 ```
