@@ -6,7 +6,8 @@ Software Developer
  
  ```JavaScript 
 const Carlos = {
-  experiences: "C#, Java, Terraform, .NET, Vue.js, Typescript, Javascript, React, Angular, SQL Server, MySQL, ASP.NET",
+  experiences: "C#, Java, Terraform, .NET, Vue.js, Typescript,
+      Javascript, React, Angular, SQL Server, MySQL, ASP.NET",
   languages: "English, Portuguese and Spanish",
 };
 
