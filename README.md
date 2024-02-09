@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-Developer Front-End Jr    or   Developer Fullstack C#
+Software Developer
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
  
  ```JavaScript 
-const Saints = {
-  languages: "Portuguese, Spanish and a little English",
-  last_job: "FullStack Web Developer C#, Java, React, Angular",
+const Carlos = {
+  experiences: "C#, Java, Terraform, .NET, Vue.js, Typescript, Javascript, React, Angular, SQL Server, MySQL, ASP.NET",
+  languages: "English, Portuguese and Spanish",
 };
 
 ```
