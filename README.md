@@ -2,7 +2,7 @@
 
 Software Developer
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
  
  ```JavaScript 
 const Carlos = {
