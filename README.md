@@ -40,6 +40,6 @@ const Carlos = {
   <br>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=carlosgoncalvesdev&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosgoncalvesdev&show_icons=true&theme=dracula" />
 </p>
 
