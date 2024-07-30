@@ -1,12 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-Software Developer
+Data Engineer
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
  
  ```JavaScript 
 const Carlos = {
-  experiences: "C#, Java, Terraform, .NET, Vue.js, Typescript,
+  objective: "Data Engineer, Python, SQL, MongoDB, Git, Apache Spark, Apache Airflow, Cloud Computing, React"
+  work_experiences: "C#, Java, Terraform, .NET, Vue.js, Typescript,
       Javascript, React, Angular, SQL Server, MySQL, ASP.NET",
   languages: "English, Portuguese and Spanish",
 };
