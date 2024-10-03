@@ -3,9 +3,9 @@
  
  ```JavaScript 
 const Carlos = {
-  objective: "Data Engineer, Python, SQL, MongoDB, Git, Apache Spark, Apache Airflow, Cloud Computing, React"
+  objective: "Data Engineer, Infra Engineer, Data Science, Software Architect, Software Developer Full Stack, Scrum Master"
   work_experiences: "C#, Java, Terraform, .NET, Vue.js, Typescript,
-      Javascript, React, Angular, SQL Server, MySQL, ASP.NET",
+      Javascript, React, Angular, SQL Server, MySQL, ASP.NET, Python, Flask, Django, AWS",
   languages: "English, Portuguese and Spanish",
 };
 
